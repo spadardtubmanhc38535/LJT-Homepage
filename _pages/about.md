@@ -35,7 +35,7 @@ Research Experience
 
 Publications
 ======
-A full list is also available on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) and on the [Publications](/publications/) page.
+A full list is also available on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) and on the [Publications]({{ site.baseurl }}/publications/) page.
 
 **Preprints**
 
